@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=muhammaduzair19" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -50,8 +44,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/muhammaduzair19/muhammaduzair19/output/snake.svg" alt="Snake animation" />
-
-###
